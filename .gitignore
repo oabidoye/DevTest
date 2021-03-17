@@ -398,3 +398,5 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+/ui/dist/ui
+/ui/src/.vscode
